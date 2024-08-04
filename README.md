@@ -7,6 +7,7 @@ Of course, there are lots of official implementations but I found these simple c
 
 we are just trying to generate the digit "4" for simplification
 but just fully connected layers output wasn't that good!
+
 ![11](https://github.com/HosseinDahaei/Pytorch-GAN/assets/47916989/3a773ef3-1b6e-451f-90db-4d9a3fc97270)
 
 02 . Deep Convolutional GAN
